@@ -1,2 +1,0 @@
-# portofolio.fika
-fika
